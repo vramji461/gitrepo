@@ -1,8 +1,9 @@
-changing first line
+Modified first line in remote
 chaning locally.
 test branch changes
 remote changes
 Adding local changes
 adding remote changes again
-
 Adding something else
+replicatinggggg remote override modifed
+
