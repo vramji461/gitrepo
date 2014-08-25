@@ -1,8 +1,8 @@
-Adding the file to repo.
+changing first line
 chaning locally.
 test branch changes
 remote changes
 Adding local changes
 adding remote changes again
 
-replicatinggggg remote override modifed
+Adding something else
