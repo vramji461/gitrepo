@@ -5,4 +5,4 @@ remote changes
 Adding local changes
 adding remote changes again
 
-replicating remote override modifed
+replicatinggggg remote override modifed
